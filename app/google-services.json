@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "761505919601",
+    "project_id": "patientvisitapp",
+    "storage_bucket": "patientvisitapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761505919601:android:e2af14457d5ed2dcfa61d0",
+        "android_client_info": {
+          "package_name": "com.example.patientvisit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761505919601-4bho69r6oacbkb4qq4o1fs29tokc7fk4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.patientvisit",
+            "certificate_hash": "6dfcae2e37674a98bccc6beb537ad3719ab10056"
+          }
+        },
+        {
+          "client_id": "761505919601-ilebemtamin255q0n35p8t1egv99vf3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADwSXEYwqxdeJKfCsVfsK3fljciWnQdwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761505919601-ilebemtamin255q0n35p8t1egv99vf3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
